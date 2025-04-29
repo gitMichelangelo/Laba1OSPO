@@ -1,2 +1,2 @@
 # Laba1OSPO
-test
+
